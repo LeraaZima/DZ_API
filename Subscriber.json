@@ -1,0 +1,9 @@
+[
+    {
+        "last_name": "Иванов",
+        "first_name": "Иван",
+        "b_date": "1999-01-01",
+        "phone_number": "+79826785544",
+        "email": "Ivanov@example.com"
+    }
+]
